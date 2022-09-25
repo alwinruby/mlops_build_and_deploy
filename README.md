@@ -11,3 +11,12 @@ Also set up tracking for the model to document the model history and generate an
 ### Premise
 
 Golden Bank wants to expand its business by offering low-rate mortgage renewals for online applications. Online applications expand the bank’s customer reach and reduce the bank’s application processing costs.  The aim to create a mortgage approval model that avoids unanticipated risk and treats all applicants fairly.
+
+
+### Pre-requistes
+
+Ensure sign up for Cloud Pak for Data as a Service https://cloud.ibm.com/
+
+Set region to Dallas
+
+
